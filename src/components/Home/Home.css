@@ -1,0 +1,20 @@
+.title {
+    padding: 20px 0px;
+}
+
+.close {
+    float: right;
+    margin-top: -8px !important;
+}
+
+.dialog > div > div {
+    width: 600px;
+}
+
+.button-area {
+    margin-bottom: 20px !important;
+}
+
+.container-area {
+    height: 700px !important;
+}

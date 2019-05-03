@@ -1,0 +1,62 @@
+.restaurantList {
+  background: #d8d8d8;
+}
+
+.restaurant {
+  padding: 30px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.title {
+  padding: 20px 0px;
+}
+
+.close {
+  float: right;
+  margin-top: -8px !important;
+}
+
+.dialog > div > div {
+  width: 600px;
+}
+
+#container {
+  max-height: 420px;
+  /*overflow-y: auto;*/
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.review-input {
+  width: 100%;
+  margin-top: 0 !important;
+}
+
+.review-rating {
+  margin-top: 5px;
+  margin-bottom: 40px;
+}
+
+.review-title {
+  margin-top: 20px !important;
+}
+
+.review-view-star {
+  position: absolute;
+  bottom: -15px;
+  margin-top: 10px;
+}
+
+.review-view-text {
+  margin-bottom: 10px;
+}
+
+.review-list-item {
+  margin-bottom: 10px;
+}
+
+.add-review-dialog-button {
+  margin-top: 20px !important;
+  margin-left: 10px !important;
+}
