@@ -1,4 +1,4 @@
-This is a react application developed using React and UI framework, Redux as state management. Material UI used as UI design tool. 
+This is a react application developed using React as UI framework, Redux as state management. Material UI used as UI design tool. 
 
 This application provides restaurants and its reviews, images within the location of user or any selected location area.
 
